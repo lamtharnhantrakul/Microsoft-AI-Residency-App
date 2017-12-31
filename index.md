@@ -11,9 +11,13 @@ The following are a curated subset of projects, videos and links grouped roughly
 
 * Audio + Machine Learning
 
---> My full [GitHub](https://github.com/lamtharnhantrakul)
+--> [GitHub](https://github.com/lamtharnhantrakul)
 
---> My full [Portfolio](http://cargocollective.com/lh-hantrakul)
+--> [Research Portfolio](http://cargocollective.com/lh-hantrakul)
+
+--> [Blog](https://lh-hantrakul.com/)
+
+--> [LinkedIn](https://www.linkedin.com/in/lamtharn-hanoi-hantrakul-0a8946b4/)
 
 ## Physics + Digital Signal Processing
 ### Patent-pending Surrogate Soundboard System
