@@ -1,4 +1,4 @@
-# Facebook AI Residency 2018 Application
+# Microsoft AI Residency 2018 Application
 ## **Lamtharn "Hanoi" Hantrakul**
 
 The following are a curated subset of projects, videos and links grouped roughly into my areas of expertise:
